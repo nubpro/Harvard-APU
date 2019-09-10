@@ -14,4 +14,4 @@ https://library.apiit.edu.my/harvard-referencing-style/
 * Open **Microsoft Word**, go to the **References** tab and under **Style**, choose **Harvard - APU**.
 
 ## How to Contribute
-Submit a PR, it will be reviewed A.S.A.P
+Submit a pull request, it will be reviewed asap.
