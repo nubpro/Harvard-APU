@@ -15,3 +15,6 @@ https://library.apiit.edu.my/harvard-referencing-style/
 
 ## How to Contribute
 Submit a pull request, it will be reviewed asap.
+
+## 🐛 Spotted a bug? 
+File a **New Issue**, it won't take long.
