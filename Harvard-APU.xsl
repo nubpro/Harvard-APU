@@ -61,7 +61,7 @@
             <xsl:text>Harvard - APU</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1049'">
-            <xsl:text>Harvard — Anglia</xsl:text>
+            <xsl:text>Harvard — APU</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1035'">
             <xsl:text>Harvard - APU</xsl:text>
@@ -148,7 +148,7 @@
             <xsl:text>Harvard - APU</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1051'">
-            <xsl:text>Harvard – Anglia</xsl:text>
+            <xsl:text>Harvard – APU</xsl:text>
           </xsl:when>
           <xsl:when test="b:StyleNameLocalized/b:Lcid='1060'">
             <xsl:text>Harvardski APU</xsl:text>
