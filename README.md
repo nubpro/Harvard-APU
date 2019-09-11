@@ -1,6 +1,6 @@
 # Microsoft Word Harvard Referencing Template for Asia Pacific University (APU & APIIT)
 
-This reference style is a modified version of Harvard, Anglia (2008) and modified to meet the requirement based on:
+This reference style is a modified version of Harvard - Anglia (2008) to meet the requirement based on:
 https://library.apiit.edu.my/harvard-referencing-style/
 
 ## How to Install
