@@ -5,13 +5,18 @@ https://library.apiit.edu.my/harvard-referencing-style/
 
 ## How to Install
 ### Windows
-* Make sure **Microsoft Word** is closed
-* Copy the [Harvard-APU.xsl](Harvard-APU.xsl) file to the `%userprofile%\AppData\Roaming\Microsoft\Bibliography\Style` folder.
+* Make sure **Microsoft Word** is closed.
+* Click [[this link]](https://raw.githubusercontent.com/nubpro/Harvard-APU/master/Harvard-APU.xsl).
+* Right click on the page, choose **Save as**, save the file in your desired folder.
+* Press **Windows key + R** on your keyboard.
+* Paste `%userprofile%\AppData\Roaming\Microsoft\Bibliography\Style` and click **OK**.
+* Copy the file you'd saved in the previous steps and paste it here.
 * Open **Microsoft Word**, go to the **References** tab and under **Style**, choose **Harvard - APU**.
+* Tadaaa~
 
 ### Mac
 * Make sure **Microsoft Word** is closed
-* Copy the [Harvard-APU.xsl](Harvard-APU.xsl) file to the `/Library/AppSupport/Microsoft/Office365/Citations/`.
+* Save [[this file]](https://raw.githubusercontent.com/nubpro/Harvard-APU/master/Harvard-APU.xsl) into the `/Library/AppSupport/Microsoft/Office365/Citations/` folder.
 * Open **Microsoft Word**, go to the **References** tab and under **Style**, choose **Harvard - APU**.
 
 ## How to Contribute
